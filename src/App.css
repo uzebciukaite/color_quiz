@@ -148,9 +148,9 @@ button:not([disabled]):hover {
       
     }
     button {
-      width: 250px;
-      height: 80px;
-      font-size: 2em;
+      width: 220px;
+      height: 60px;
+      font-size: 1.6em;
       margin-top: 20px;
     } 
 }
