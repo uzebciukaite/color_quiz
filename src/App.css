@@ -134,9 +134,9 @@ button:not([disabled]):hover {
     }
     .scoreboard p,
     .questionBox h2 {
-      font-size: 2em;
-      width: 80%; 
-      font-weight: bold;
+      font-size: 1.8em;
+      width: 100%; 
+      font-weight: bold;  
     }
     .questionsLeft {
       margin-top: 40px;
