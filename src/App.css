@@ -116,10 +116,14 @@ button:not([disabled]):hover {
     margin: auto;
     justify-content: center;
   }
+  .startquiz h2 {
+    width: 90%;
+  }
   .startquiz h3 {
     font-size: 1.5em;
     width: 80%;
   }
+
   .questionBox {
     height: 95%;
   }
