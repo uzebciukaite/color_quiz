@@ -136,11 +136,14 @@ button:not([disabled]):hover {
     .answerGrid div {
       height: 60px;
     }
-    .scoreboard p,
     .questionBox h2 {
       font-size: 1.8em;
-      width: 100%; 
-      font-weight: bold;  
+      width: 100%;  
+    }
+    .scoreboard p{
+      font-size: 1.8em;
+      width: 80%;
+      font-weight: bold;
     }
     .questionsLeft {
       margin-top: 40px;
